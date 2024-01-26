@@ -1,6 +1,6 @@
 ---
-edited_seconds: 490
-updated_at: 2024-01-26T22:51:44.882+05:30
+edited_seconds: 510
+updated_at: 2024-01-26T22:53:05.602+05:30
 ---
 ## A Recap on Classical Macroeconomics
 - To grow a country's GDP, we have to invest in a country's real factor
@@ -13,6 +13,8 @@ updated_at: 2024-01-26T22:51:44.882+05:30
 - Market Economy
 	- Free market, minimal government intervention
 	- Laissez-Fairez Economy
+
+- $$Y = f(\bar{K},N)$$
 - 
 - $$\triangle Y= \triangle N$$
 - for $\triangle N$ you need to consider demand and supply of labour
