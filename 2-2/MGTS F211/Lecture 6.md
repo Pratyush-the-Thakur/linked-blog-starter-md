@@ -1,6 +1,6 @@
 ---
-edited_seconds: 1290
-updated_at: 2024-01-25T11:50:08.400+05:30
+edited_seconds: 1310
+updated_at: 2024-01-26T22:47:15.725+05:30
 ---
 
 
@@ -56,3 +56,5 @@ updated_at: 2024-01-25T11:50:08.400+05:30
 ### Task Environment- Specific to an industry
 	 - Impacts Profitability and growth
 	 - Affects Organisation directly
+
+Testing testing, 22:47
